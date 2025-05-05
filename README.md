@@ -5,8 +5,8 @@ A full-stack ToDo List application with user authentication, built using Spring 
 
 ## 🌐 Live Demo
 
-- **Frontend (Netlify)**: [https://your-frontend-url.netlify.app](https://your-frontend-url.netlify.app)  
-- **Backend (Render)**: [https://your-backend-url.onrender.com](https://your-backend-url.onrender.com)  
+- **FullStack live link (Netlify)**: [https://taskly01.netlify.app/](https://taskly01.netlify.app/)  
+
 
 ## 🛠️ Tech Stack
 
